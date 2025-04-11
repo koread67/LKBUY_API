@@ -1,5 +1,6 @@
-
-fastapi
-uvicorn
+numpy==1.26.4
+pandas
 yfinance
 pandas_ta
+fastapi
+uvicorn
